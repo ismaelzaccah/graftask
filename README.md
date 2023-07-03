@@ -5,17 +5,17 @@
 ## Sumário
 
 * [🍍 Problemática](#🍍-problemática)
-* [🤸‍♂️ Atores e Visão geral](#🤸‍♂️-atores-e-visão-geral)
+* [👥 Atores e Visão geral](#👥-atores-e-visão-geral)
 * [📋 Requisistos](#📋-requisistos)
 * [🧩 Modelagem do DB](#🧩-modelagem-do-db)
 * [👨‍💻 Tecnologias Utilizadas](#👨‍💻-tecnologias-utilizadas)
-* [🚴‍♂️ Como Instalar e Usar](#🚴‍♂️-como-instalar-e-usar)
+* [💿 Como Instalar e Usar](#💿-como-instalar-e-usar)
 
 ## 🍍 Problemática
 
 A grafica que trabalho está tendo problemas com controle dos serviços que são solicitados ao setor de Acabamento, atualmente as demandas são repassadas com comandas em papel o que impossibilita o rastreio e manejo dos serviços solicitados. 
 
-## 🤸‍♂️ Atores e Visão geral
+## 👥 Atores e Visão geral
 ![Diagrama de caso de Uso](./planejamento/Diagrama%20de%20Caso%20de%20Uso.jpg)
 
 ## 📋 Requisistos
@@ -34,5 +34,5 @@ A grafica que trabalho está tendo problemas com controle dos serviços que são
 
 * 🚧 EM CONSTRUÇÃO 🚧
 
-## 🚴‍♂️ Como Instalar e Usar
+## 💿 Como Instalar e Usar
 * 🚧 EM CONSTRUÇÃO 🚧
